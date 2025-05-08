@@ -1,0 +1,7 @@
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\bin\Debug\SumTwoSmallest.exe.config
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\bin\Debug\SumTwoSmallest.exe
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\bin\Debug\SumTwoSmallest.pdb
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\obj\Debug\SumTwoSmallest.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\obj\Debug\SumTwoSmallest.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\obj\Debug\SumTwoSmallest.exe
+C:\Users\serge\OneDrive\Рабочий стол\SumTwoSmallest\SumTwoSmallest\obj\Debug\SumTwoSmallest.pdb
